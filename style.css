@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    margin: 30px;
+}
+
+#main-div {
+    margin: 30px;
+    height: 260px;
+    width: 220px;
+}
+
+.but {
+    height: 50px;
+    width: 50px;
+    margin: 0px !important;
+}
+
+.but-0 {
+    height: 50px;
+    width: 104px;
+    margin: 0px !important;
+}
+
+#input-output {
+    border: 2px solid black;
+    margin-bottom: 5px;
+    height: 30px;
+    width: 210px;
+    text-align: right;
+    color: black;
+    font-size: large;
+    padding: 3px;
+}
